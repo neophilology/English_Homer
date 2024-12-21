@@ -7,7 +7,8 @@ description: "Exploring Homer translations in English through data science"
 tags: [NLP, Digital Humanities, Homer, Translation, Literature, Blog]
 ---
 
-# Welcome to English Homer
+# English Homer
+*Daniel Barrera, 21/12/2024*
 
 Discover the intersection of Homeric tradition in English literature and digital humanities. This site explores translations, adaptations, and intertextual dialogues with the Greek Bard—–the "English Homer." By applying data science methods and data visualization to literary texts, I aim to uncover new insights into the rich tapestry of Homeric influence.
 
@@ -26,6 +27,8 @@ Here’s a glimpse of some of my recent blog entries:
   *A brief description of the post.*
 
 ---
+
+
 
 ## About Me
 
